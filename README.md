@@ -23,4 +23,4 @@ Ce projet présente un tableau de bord interactif réalisé sous Power BI, perme
 
 ### 🌙 Mode Dark  
 
-![Dashboard Dark](https://raw.githubusercontent.com/YassmineMarir/Dashboard-customers-performance-analysis/refs/heads/main/Customer%20dark%20dashboard.png))
+![Dashboard Dark](https://raw.githubusercontent.com/YassmineMarir/Dashboard-customers-performance-analysis/refs/heads/main/Customer%20dark%20dashboard.png)
