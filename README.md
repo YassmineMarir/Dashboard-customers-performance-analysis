@@ -9,3 +9,18 @@ Ce projet présente un tableau de bord interactif réalisé sous Power BI, perme
 - Étude des tendances de revenus selon le genre pour orienter les décisions stratégiques.
 
 📊 Outils : Power BI, DAX, Power Query
+
+## Aperçu du Dashboard
+
+
+
+
+<h3 align="center">🌞 Mode Light &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌙 Mode Dark</h3>
+
+### 🌞 Mode Light  
+
+![Dashboard Light](https://raw.githubusercontent.com/YassmineMarir/Dashboard-customers-performance-analysis/refs/heads/main/customer%20light%20dashboard.png)
+
+### 🌙 Mode Dark  
+
+![Dashboard Dark](https://raw.githubusercontent.com/YassmineMarir/Dashboard-customers-performance-analysis/refs/heads/main/Customer%20dark%20dashboard.png))
